@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="pd.appexampleui02.AppSpinner">
+
+    <Spinner
+        android:id="@+id/spinnercolors"
+        android:layout_width="368dp"
+        android:layout_height="58dp"
+        android:background="@drawable/ic_error_black_24dp"/>
+
+
+</android.support.constraint.ConstraintLayout>
